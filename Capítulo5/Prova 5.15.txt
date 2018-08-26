@@ -1,0 +1,11 @@
+5.15
+Dadas as premissas:
+Tet(b)
+Cube(c)
+LargeOf(c,b) ? b = c
+Termos que ter:
+SmallOf(b,c)
+
+Para provar SmallOf(b,c), basta olharmos a terceira premissa:
+LargeOf(c,b) tem que ser verdade ou b = c tem que ser verdade. Não temos como provar LargeOf(c,b), contudo podemos negar negar b = c, pois Tet(b) = Cube(c), ou seja,
+para que a sentença seja verdadeira, LargeOf(c,b) tem que ser verdadeiro. LargeOf(c,b) é igual a SmallOf(b,c), logo SmallOf(b,c) é verdadeiro.
