@@ -1,0 +1,1 @@
+7.2.4.28445linux:Linux4.15.0-33-genericSntFC1536153749196D1536154030516S105334SameRow(d,a) | SameRow(d,b) | SameRow(d,c)SameRow(d,b)  $ (SameRow(d,a) $ ~SameRow(d,c))SameRow(d,a)  % SameRow(d,c)SameRow(d,a)  % SameRow(d,b)s=34779;

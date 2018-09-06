@@ -1,0 +1,1 @@
+7.2.4.28445linux:Linux4.15.0-33-genericSntFC1536141983959D1536142089786D1536142249618S125514Small(a) & (Medium(b) | Large(c))Medium(b) $ FrontOf(a, b)Large(c) $ Tet(c)~Tet(c) $ FrontOf(c, b)s=30355;
