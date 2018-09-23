@@ -1,0 +1,10 @@
+7.2.4.28445wnds:Windows 86.2SntFC1537229848274D1537229976321S833610Small(a)  & Cube(a) &  FrontOf(a,e)  & Tet(e)
+; It looks like Bozo is trying to say that a small
+; cube named ais in front of a tetrahedron named e./x ~SameCol(x, b)Cube(a) & (Cube(b) | Cube(c))
+; There are two different ways of adding 
+; parentheses that can turn this into a sentence. (Cube(a) % Cube(b)) % Cube(e)/x ~(Cube (x))/v (Cube(v) & Small(v))
+; Bozo wants to say that there is a small cube./x (Cube(x) & Small(x))
+; Bozo tries again to say that there is a small cube.~/y (Dodec(y) & Large(y))
+; Bozo left out a negation sign.  There are four
+; places you could put it, but one would make the
+; sentence false.@y (Cube(y) $ ~Medium(y))@x ((Tet(x) & Small(x)) $ FrontOf(x, e))s=115685;
