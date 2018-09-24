@@ -1,0 +1,1 @@
+7.2.4.28445wnds:Windows 86.2SntFC1537741257831D1537741290903S82746@x (Cube(x) | Tet(x))@x @y ((Cube(x) & Tet(y)) $ LeftOf(x, y))/x /y /z (Tet(x) & Tet(y) & Tet(z) & x # y & y # z & x # z)@x ((Cube(x) & Small(x)) $ /y (Cube(y) & Large(y) & BackOf(x, y)))@x (Tet(x) $ Small(x))@x (Dodec(x) $ /y (Tet(y) & Smaller(x, y)))s=52104;
