@@ -1,0 +1,4 @@
+7.2.4.28445wnds:Windows 86.2SntFC1538613660768D1538613740022S83105/x /y (Cube(x) & Cube(y)  & x # y & @z (Cube(z) $ (z = x | z = y)) &
+    Medium(x) & Medium(y))/x /y (Dodec(x) & Dodec(y) & ~Small(x) & ~Small(y) & x # y & @z (Dodec(z) $ (z = x | z = y)))/x /y /z (Cube(x) & Cube(y) & x # y & @u (Cube(u) $ (u = x | u = y)) & 
+    Tet(z) & @v (Tet(v) $ v = z) & 
+        FrontOf(x, z) & FrontOf(y, z)/x /y /z /u (Cube(x) & Cube(y) & Dodec(z) & Dodec(u) & x#y & z # u & LeftOf(x, z) & LeftOf(x, u) & LeftOf(y, z) & LeftOf(y, u) & @v (Cube(v) $ (v = x | v = y)) & @w (Dodec(w) $ (w = z | w = u)))/x /y (Cube(x) & Cube(y) & x # y & @u (Cube(u) $ (u = x | u = y)) & @z (Dodec(z) $ (~BackOf(x, z) & ~BackOf(y, z))))s=119618;
