@@ -1,0 +1,1 @@
+Todo elemento será Cubo ou dodecaedro e todo cubo é pequeno. Pela segunda premissa, teremos que, todo cubo é grande. Mas pela terceira premissa, existe um objeto que não é large, ou seja, ele não poderá ser um cubo e como todos os elementos são ou cubos ou dodecaedros, então irá existir um dodecaedro.

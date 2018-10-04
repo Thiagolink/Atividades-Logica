@@ -1,0 +1,1 @@
+Todo elemento será um cubo grande ou um tetraedro pequeno. Por prova de casos, caso não exista um cubo grande, deverá existir um tetraedro pequeno. E todo tetraedro deverá sempre estar atrás de um objeto c. Como para ser pequeno, ele deve ser um tetraedro, então qualquer objeto pequeno deve estar atrás do objeto c.

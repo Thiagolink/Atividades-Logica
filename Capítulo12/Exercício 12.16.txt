@@ -1,0 +1,1 @@
+O argumento está certo, pois dados dois objetos x e y, todo objeto x que for maior que y, x deverá ficar a esquerda de y. Como todo cubo é pequeno, então não deverá existir nenhum cubo a esquerda de nenhum cubo, também significando que nenhum cubo deverá ficar a direita de nenhum cubo, ou seja não exsite um cubo a direita de outro cubo.

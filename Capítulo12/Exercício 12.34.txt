@@ -1,0 +1,1 @@
+Seja b um bloco arbitrário. Pelo axioma 4, concluímos que b é um cubo, ou um tetraedro ou dodecaedro. Caso b seja um dodecaedro, pelo axioma 9, podemos concluir que c também será um dodecaedro. Caso b seja um cubo ou tetraedro, a mesma conclusão segue os os axiomas 8 e 10 respectivamente. Com isso, podemos concluir que c é do mesmo formato que b.
