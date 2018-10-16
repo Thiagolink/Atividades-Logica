@@ -1,0 +1,67 @@
+The following files were submitted:
+        Sentences 4.32.sen
+        Sentences 4.39.sen
+        Table Tautology 4.6.tt (interpreted as Table 4.6)
+        Table Tautology 4.7.tt (interpreted as Table 4.7)
+        Table Tautology 4.16.tt (interpreted as Table 4.16)
+        Table Tautology 4.18.tt (interpreted as Table 4.18)
+        Table Tautology 4.22.tt (interpreted as Table 4.22)
+
+EXERCISE 4.6
+
+  Table 4.6  (Student file: "Table Tautology 4.6.tt")
+     We found problems in your table:
+     *** You didn't fill in the requested assessment.
+     *** Your table has an incorrect assessment.  Don't forget to verify your 
+         assessments before submitting tables.
+
+EXERCISE 4.7
+
+  Table 4.7  (Student file: "Table Tautology 4.7.tt")
+     We found problems in your table:
+     *** You didn't fill in the requested assessment.
+     *** Your table has an incorrect assessment.  Don't forget to verify your 
+         assessments before submitting tables.
+
+EXERCISE 4.16
+
+  Table 4.16  (Student file: "Table Tautology 4.16.tt")
+     We found problems in your table:
+     *** You didn't fill in the requested assessment.
+     *** Your table has an incorrect assessment.  Don't forget to verify your 
+         assessments before submitting tables.
+
+EXERCISE 4.18
+
+  Table 4.18  (Student file: "Table Tautology 4.18.tt")
+     We found problems in your table:
+     *** You didn't fill in the requested assessment.
+     *** Your table has an incorrect assessment.  Don't forget to verify your 
+         assessments before submitting tables.
+
+EXERCISE 4.22
+
+  Table 4.22  (Student file: "Table Tautology 4.22.tt")
+     We found problems in your table:
+     *** Your target sentences are wrong.  Please reread the exercise 
+         carefully.
+
+EXERCISE 4.32
+
+  Sentences 4.32  (Student file: "Sentences 4.32.sen")
+     We found problems in your sentences:
+     *** Your fourth sentence, "~[Happy(max) v (Likes(carl,claire) & 
+         Likes(claire,carl))]", is not equivalent to the preceding sentence.
+     *** Your fourth sentence, "~[Happy(max) v (Likes(carl,claire) & 
+         Likes(claire,carl))]", is not in negation normal form.
+
+EXERCISE 4.39
+
+  Sentences 4.39  (Student file: "Sentences 4.39.sen")
+     We found problems in your sentences:
+     *** Your fourth answer, "(Larger(a, b) & (Cube(a)) v (Larger(a,b) & 
+         Tet(a)) v (Larger(a,b) & (a=b)))", isn't well formed.
+     *** Your eighth answer, "(Cube(a) & (Cube(b) & ~Small(a)) v (Cube(a) & 
+         (Cube(b) & ~Small(b))", isn't well formed.
+     *** Your tenth answer, "(Small(a) & Cube(a)) v (Medium(a) & (Cube(a)) v 
+         (Small(a) & ~Dodec(a)) v (Medium(a) & ~Dodec(a)))", isn't well formed.
