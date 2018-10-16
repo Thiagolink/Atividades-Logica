@@ -1,0 +1,93 @@
+The following files were submitted:
+        Sentences 9.1.sen
+        Sentences 9.3.sen
+        Sentences 9.5.sen
+        Sentences 9.6.sen
+        Sentences 9.12.sen
+        Sentences 9.16.sen
+        Sentences 9.17.sen
+        Sentences 9.18.sen
+        Sentences 9.25.sen
+        World 9.9.wld
+        World 9.14.wld
+
+EXERCISE 9.1
+
+  Sentences 9.1  (Student file: "Sentences 9.1.sen")
+     Your sentences are all correct.  Holy mackerel!
+
+EXERCISE 9.3
+
+  Sentences 9.3  (Student file: "Sentences 9.3.sen")
+     Your sentences are all correct.  Terrific!
+
+EXERCISE 9.5
+
+  Sentences 9.5  (Student file: "Sentences 9.5.sen")
+     Your sentences are all correct.  You're good!
+
+EXERCISE 9.6
+
+  Sentences 9.6  (Student file: "Sentences 9.6.sen")
+     Your sentences are all correct.  Holy mackerel!
+
+EXERCISE 9.9
+
+  World 9.9  (Student file: "World 9.9.wld")
+     Aristotles' Sentences are true in your world.  Jings!
+
+EXERCISE 9.12
+
+  Sentences 9.12  (Student file: "Sentences 9.12.sen")
+     We found problems in your sentences:
+     *** Your third sentence, "Ax (Tet(x) -> (Small(x) v Medium(x) v 
+         Large(x)))", does not say what it is supposed to say.  Try again.
+
+EXERCISE 9.14
+
+  World 9.14  (Student file: "World 9.14.wld")
+     We found problems in your world:
+     *** Sorry, the world you submitted isn't right.
+     *** The first sentence in Maigret's Sentences, "Between(c, a, d) & 
+         ~Tet(c)", is unevaluable, not true, in your world.
+     *** The second sentence in Maigret's Sentences, "Ex BackOf(x, a) & Ex 
+         FrontOf(x, c)", is unevaluable, not true, in your world.
+     *** The third sentence in Maigret's Sentences, "FrontOf(a, c) & ~Ex 
+         (BackOf(x, a) & FrontOf(x, c))", is unevaluable, not true, in your 
+         world.
+     *** The seventh sentence in Maigret's Sentences, "Dodec(e)", is 
+         unevaluable, not true, in your world.
+     *** The eighth sentence in Maigret's Sentences, "~Ex LeftOf(x, e) v 
+         Large(e)", is unevaluable, not true, in your world.
+
+EXERCISE 9.16
+
+  Sentences 9.16  (Student file: "Sentences 9.16.sen")
+     We found problems in your sentences:
+     *** Your thirteenth sentence, "Ex (~Large(x) & ~Dodec(x))", is not 
+         equivalent to any of the expected translations.
+
+EXERCISE 9.17
+
+  Sentences 9.17  (Student file: "Sentences 9.17.sen")
+     Your sentences are all correct.  Neato!
+
+EXERCISE 9.18
+
+  Sentences 9.18  (Student file: "Sentences 9.18.sen")
+     Your sentences are all correct.  Amazing!
+
+EXERCISE 9.25
+
+  Sentences 9.25  (Student file: "Sentences 9.25.sen")
+     We found problems in your sentences:
+     -NOTE: In these translations, it's essential that you use the right 
+      predicates, function symbols, and constants.  (Remember "Square" and "2" 
+      are not part of the language.  "<" is part of the language, but ">" is 
+      not.)  To enter the multiplication symbol, you must type the asterisk 
+      (*), not "x", which is a variable.
+     *** Your fourth sentence, "Ay ((Prime(y) & y # 2) -> ~Even(y * y)) ",
+
+
+ 
+         doesn't match the expected translation.
