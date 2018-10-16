@@ -1,0 +1,49 @@
+The following files were submitted:
+        Sentences 7.12.sen
+        Sentences 7.25.sen
+        Table Tautology 7.1.tt (interpreted as Table 7.1)
+        Table Tautology 7.5.tt (interpreted as Table 7.5)
+        Table Tautology 7.8.tt (interpreted as Table 7.8)
+
+EXERCISE 7.1
+
+  Table 7.1  (Student file: "Table Tautology 7.1.tt")
+     Your table is correct.  Good show!
+
+EXERCISE 7.5
+
+  Table 7.5  (Student file: "Table Tautology 7.5.tt")
+     Your table is correct.  Very cool!
+
+EXERCISE 7.8
+
+  Table 7.8  (Student file: "Table Tautology 7.8.tt")
+     Your table is correct.  Holy mackerel!
+
+EXERCISE 7.12
+
+  Sentences 7.12  (Student file: "Sentences 7.12.sen")
+     We found problems in your sentences:
+     *** Your second answer, "LeftOf(a,d) v Right(a,d) -> Cube(a)", isn't well 
+         formed.
+     *** Your fifth answer, "RightOf(c,d) -> RightOf(b,c) & LeftOf(b,e)", isn't 
+         well formed.
+     *** Your seventh sentence, "Dodec(b) -> ~(FrontOf(b,d) -> ~BackOf(b,d))", 
+         is not equivalent to any of the expected translations.
+     *** Your eighth sentence, "~(Front(c,e)) -> BackOf(c,a)", is not 
+         equivalent to any of the expected translations.
+     *** Your eleventh sentence, "Tet(a) <-> FrontOf(a,b)", is not equivalent 
+         to any of the expected translations.
+     *** Your thirteenth sentence, "Larger(a,c) & Larger(e,c) & ~(Larger(a) v 
+         Large(e))", is not equivalent to any of the expected translations.
+     *** Your fourteenth answer, "SameShape(d,b) -> SameSize(,d,b)", isn't well 
+         formed.
+     *** Your seventeenth answer, "~Cube(e) -> Large(b) v Large(c)", isn't well 
+         formed.
+     *** Your eighteenth answer, "Cube(b) v Cube(d) -> Tet(a) v Tet(c)", isn't 
+         well formed.
+
+EXERCISE 7.25
+
+  Sentences 7.25  (Student file: "Sentences 7.25.sen")
+     Your sentences are all correct.  Deluxe!
