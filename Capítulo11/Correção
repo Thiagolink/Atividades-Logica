@@ -1,0 +1,108 @@
+EXERCISE 11.2
+
+  World 11.2  (Student file: "World 11.2.wld")
+     Your world is correct.  In the box!
+
+EXERCISE 11.4
+
+  Sentences 11.4  (Student file: "Sentences 11.4.sen")
+     Your sentences are all correct.  Zounds!
+
+EXERCISE 11.5
+
+  World 11.5  (Student file: "World 11.5.wld")
+     Your world is correct.  Far out!
+
+EXERCISE 11.9
+
+  Sentences 11.9  (Student file: "Sentences 11.9.sen")
+     We found problems in your sentences:
+     *** Sentence 9: Your answer, "Ax ((Cube(x) & Large(x)) -> Ey BackOf(y, 
+         x))", is not right.  You can make the original sentence true by adding 
+         a negation to an atomic formula.  Try again.
+
+EXERCISE 11.11
+
+  World 11.11  (Student file: "World 11.11.wld")
+     Your world is correct.  Land sakes!
+
+EXERCISE 11.13
+
+  World 11.13  (Student file: "World 11.13.wld")
+     We found problems in your world:
+     *** The third sentence in Buridan's Sentences, "~Ex Small(x)", is false, 
+         not true, in your world.
+     *** The eighth sentence in Buridan's Sentences, "Ax (Ey FrontOf(x, y) -> 
+         Medium(x))", is false, not true, in your world.
+
+EXERCISE 11.15
+
+  World 11.15.1  (Student file: "World 11.15.1.wld")
+     Your world is correct.  Hot diggity dog!
+
+  World 11.15.2  (Student file: "World 11.15.2.wld")
+     Your world is correct.  Hot!
+
+EXERCISE 11.17
+
+  Sentences 11.17  (Student file: "Sentences 11.17.sen")
+     We found problems in your sentences:
+     *** Your ninth sentence, "Ex ((Dodec(x) & ~(Ey RightOf(y, x))) -> Az 
+         (LeftOf(z, x)))", is not equivalent to any of the expected 
+         translations.
+
+EXERCISE 11.19
+
+  Sentences 11.19  (Student file: "Sentences 11.19.sen")
+     We found problems in your sentences:
+     ??? We could not determine whether your third sentence, "~Ax (Ey Ez Eu 
+         (Cube(x) & ~LeftOf(y, x) & Cube(z) & Cube(u) & z # u & 
+         Between(x, u, z)))", was correct: The Grade Grinder timed out while 
+         checking your answer. Your instructor will have to verify this answer.
+     *** Your fourth sentence, "Ex Ey (Cube(x) & Large(x) & Cube(y) & Large(y) 
+         & x = b & y = c)", is not equivalent to any of the expected 
+         translations.
+     *** Your fifth sentence, "Ex (Cube(x) & Large(x) & (x = b v x = c))", is 
+         not equivalent to any of the expected translations.
+
+EXERCISE 11.26
+
+  Sentences 11.26  (Student file: "Sentences 11.26.sen")
+     We found problems in your sentences:
+     *** Your second sentence, "Ax (Cube(x) -> (Ay Az (Dodec(y) & Dodec(z) & 
+         Between(x, y, z))))", is not equivalent to any of the expected 
+         translations.
+     *** Your third sentence, "Ax Ey ((Cube(x) & Dodec(y) & RightOf(x, y)) -> 
+         Smaller(x, y))", is not equivalent to any of the expected 
+         translations.
+     *** Your sixth sentence, "Ax ((Cube(a) & Dodec(x)) -> ~Larger(a, x))", is 
+         not equivalent to any of the expected translations.
+     *** Your seventh sentence, "~(Ax Ey (Cube(x) & Dodec(y) & LeftOf(x, y)))", 
+         is not equivalent to any of the expected translations.
+     ??? We could not determine whether your ninth sentence, "Ex Ey Ez Eu 
+         (Cube(x) & Cube(y) & Dodec(z) & Dodec(u) & Between(x, z, u) & 
+         Between(y, z, u))", was correct: The Grade Grinder timed out while 
+         checking your answer. Your instructor will have to verify this answer.
+     *** Your tenth sentence, "Ex Ey Az Au (Cube(x) & Cube(y) & Dodec(z) & 
+         Dodec(u) & Between(x, z, u) & Between(y, z, u))", is not equivalent to 
+         any of the expected translations.
+
+EXERCISE 11.37
+
+  Sentences 11.37  (Student file: "Sentences 11.37.sen")
+     We found problems in your sentences:
+     *** Your eighth sentence, "Ax Ex (Cube(x) -> Small(x))", is not equivalent 
+         to the preceding sentence.
+     *** Your twentieth sentence, "Av Ex Az [(Larger(x, v) v ~LeftOf(z, v)) & 
+         (~Larger(z, v) v LeftOf(x, v))]", is not equivalent to the preceding 
+         sentence.
+     *** Your sixteenth sentence, "Ex (Cube(x) v ~Small(x)) & (Ax ~Cube(x) v Ax 
+         Small(x))", is not in prenex normal form.
+
+EXERCISE 11.39
+
+  Sentences 11.39  (Student file: "Sentences 11.39.sen")
+     We found problems in your sentences:
+     *** Your fourth sentence, "Ax ((Cube(x) & Small(x)) -> Ey (Cube(y) & 
+         Large(y) & BackOf(x, y)))", is not equivalent to any of the expected 
+         translations.
