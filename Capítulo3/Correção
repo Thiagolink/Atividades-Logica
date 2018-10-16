@@ -1,0 +1,97 @@
+The following files were submitted:
+        Sentences 3.3 .sen (interpreted as Sentences 3.3)
+        Sentences 3.10.sen
+        Sentences 3.18.sen
+        Sentences 3.21.sen
+        World 3.3.wld
+        World 3.7.wld
+        World 3.10.wld
+        World Counterexample 3.15.wld (interpreted as World 3.15)
+        World 3.16.1.wld
+        World 3.16.2.wld
+
+EXERCISE 3.3
+
+  Sentences 3.3  (Student file: "Sentences 3.3 .sen")
+     Your sentences are all correct.  Nice!
+
+  World 3.3  (Student file: "World 3.3.wld")
+     Your world is correct.  Cool!
+
+EXERCISE 3.7
+
+  World 3.7  (Student file: "World 3.7.wld")
+     Your world is correct.  Fantastic!
+
+EXERCISE 3.10
+
+  Sentences 3.10  (Student file: "Sentences 3.10.sen")
+     Your sentences are all correct.  Land sakes!
+
+  World 3.10  (Student file: "World 3.10.wld")
+     Your world is correct.  Great Scott!
+
+EXERCISE 3.15
+
+  World 3.15  (Student file: "World Counterexample 3.15.wld")
+     Your world is a counterexample to the given argument.  Keen!
+
+EXERCISE 3.16
+
+  World 3.16.1  (Student file: "World 3.16.1.wld")
+     Your world is correct.  Great Scott!
+
+  World 3.16.2  (Student file: "World 3.16.2.wld")
+     Your world is correct.  Great job!
+
+EXERCISE 3.18
+
+  Sentences 3.18  (Student file: "Sentences 3.18.sen")
+     We found problems in your sentences:
+     -NOTE:  Your goal in this exercise is to find a sentence that is true in 
+      exactly the same worlds as the odd-numbered sentence, but you can't use 
+      the same predicate used in that sentence.  For example, if the original 
+      sentence is "SameRow(a, b)", you can't use "SameRow" in your answer.  
+      Make sure your sentence doesn't say either too much or too little.  (For 
+      example, to express "SameShape(a, b)", the sentence "Tet(a) & Tet(b)" 
+      says too much, since the original sentence is true of two dodecs, too.)
+     *** Your sixth sentence, "~(a # d)", is not equivalent to any of the 
+         expected answers.  This one is a bit tricky.  You need to find a 
+         sentence that doesn't use identity, but which can't be true of two 
+         different blocks in Tarski's World.
+     *** Your second sentence, "~(FrontOf(a,b) & BackOf(a,b))", is not 
+         equivalent to any of the expected answers.
+     *** Your fourth sentence, "~(RightOf(d,b) & LeftOf(d,b))", is not 
+         equivalent to any of the expected answers.
+     *** Your tenth answer, "(Tet(a) & Tet(b)) v (Cube(a) & (Cube(b)) v 
+         (Dodec(a) & Dodec(b))", isn't well formed.
+
+EXERCISE 3.21
+
+  Sentences 3.21  (Student file: "Sentences 3.21.sen")
+     We found problems in your sentences:
+     -NOTE: You seem to be having trouble translating 'neither...nor'; you 
+      should reread the discussion of this in the textbook.
+     *** Your fourth sentence, "(Cube(d) & Cube(c)) v ~(Small(d) & Small(c))", 
+         is not equivalent to any of the expected translations.
+     *** Your fifth sentence, "~(RightOf(e,c) & RightOf(a,c)) v ~(LeftOf(e,b) & 
+         LeftOf(a,b))", is not equivalent to any of the expected translations.  
+         This English sentence can be confusing.  Try translating "e is to the 
+         right of c and to the left of b" and "a is to the right of c and to 
+         the left of b".  Then say that neither of these is the case.
+     *** Your seventh sentence, "~Between(c,a,b) v ~(FrontOf(c,a) & 
+         FrontOf(c,b))", is not equivalent to any of the expected translations. 
+         Try paraphrasing the original sentence without using "neither...nor," 
+         then see if you can translate your paraphrase.
+     *** Your ninth sentence, "~(FrontOf(d,c) & FrontOf(c,c)) v ~(FrontOf(d,b) 
+         & FrontOf(c,b))", is not equivalent to any of the expected
+
+
+ 
+ 
+         translations.  Try paraphrasing the original sentence without using 
+         "neither...nor," then see if you can translate your paraphrase.  
+         Ignore the fact that "c" appears twice in the sentence; that's 
+         irrelevant.  Think about other sentences with the same form, for 
+         example, "Neither Clinton nor Gore is taller than either Michael 
+         Jordan or Magic Johnson."  How would you say that in FOL?
