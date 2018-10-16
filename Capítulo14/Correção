@@ -1,0 +1,66 @@
+The following files were submitted:
+        Proof 14.10.prf
+        Proof 14.12.prf
+        Sentences 14.3.sen
+        Sentences 14.6.sen
+        Sentences 14.9.sen
+        Sentences 14.28.sen
+        World 14.26.wld
+        World 14.60.wld
+        World 14.62.wld
+
+EXERCISE 14.3
+
+  Sentences 14.3  (Student file: "Sentences 14.3.sen")
+     Your sentences are all correct.  Land sakes!
+
+EXERCISE 14.6
+
+  Sentences 14.6  (Student file: "Sentences 14.6.sen")
+     Your sentences are all correct.  Bravo!
+
+EXERCISE 14.9
+
+  Sentences 14.9  (Student file: "Sentences 14.9.sen")
+     Your sentences are all correct.  Good show!
+
+EXERCISE 14.10
+
+  Proof 14.10  (Student file: "Proof 14.10.prf")
+     Your proof is correct.  Huzzah!
+
+EXERCISE 14.12
+
+  Proof 14.12  (Student file: "Proof 14.12.prf")
+     Your proof is correct.  Muy bien!
+
+EXERCISE 14.26
+
+  World 14.26  (Student file: "World 14.26.wld")
+     Your world is correct.  Neato!
+
+EXERCISE 14.28
+
+  Sentences 14.28  (Student file: "Sentences 14.28.sen")
+     We found problems in your sentences:
+     *** Your third answer, "Ex Ey Ez (Cube(x) & Cube(y) & x # y & Au (Cube(u) 
+         -> (u = x v u = y)) & Tet(z) & Av (Tet(v) -> v = z) & FrontOf(x, z) & 
+         FrontOf(y, z)", isn't well formed.
+     *** Your third sentence, "Ex Ey Ez (Cube(x) & Cube(y) & x # y & Au 
+         (Cube(u) -> (u = x v u = y)) & Tet(z) & Av (Tet(v) -> v = z) & 
+         FrontOf(x, z) & FrontOf(y, z)", is not equivalent to any of the 
+         expected translations.
+     *** Your fifth sentence, "Ex Ey (Cube(x) & Cube(y) & x # y & Au (Cube(u) 
+         -> (u = x v u = y)) & Az (Dodec(z) -> (~BackOf(x, z) & 
+         ~BackOf(y, z))))", is not equivalent to any of the expected 
+         translations.
+
+EXERCISE 14.60
+
+  World 14.60  (Student file: "World 14.60.wld")
+     Your world is correct.  Nice!
+
+EXERCISE 14.62
+
+  World 14.62  (Student file: "World 14.62.wld")
+     Your world is correct.  Way to go!
